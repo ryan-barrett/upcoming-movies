@@ -1,4 +1,4 @@
-### Upcoming Movies
+## Upcoming Movies
 
 The Upcoming Films app will display top rated upcoming films which when clicked into will have a more detailed view about the film.
 
